@@ -1,0 +1,17 @@
+abbreviation: FN
+available: false
+classes: 32
+colour: 1
+id: 2
+label: FURN
+longName: furniture
+name: Furniture
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/furniture.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
